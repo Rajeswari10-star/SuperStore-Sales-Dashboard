@@ -92,4 +92,5 @@ Time-Series Trends: Seasonal peaks suggest opportunities for better inventory an
 6. Screenshots / Demos
 
 Dashboard Preview: 
-This is how my dashboard looks like : https://github.com/Rajeswari10-star/SuperStore-Sales-Dashboard/blob/main/Screenshot%202025-09-26%20203511.png
+This is how my dashboard looks like : 
+https://github.com/Rajeswari10-star/SuperStore-Sales-Dashboard/blob/main/Screenshot%202025-09-26%20203511.png
